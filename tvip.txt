@@ -253,6 +253,7 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Amazon.US.HBOBoxing" tvg-name="HBO Boxing" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-300x192.jpg" group-title="Sports",HBO Boxing
+#kodiprop:contentlookup=false purpose
 https://ott.djdoolky76.io/api/streams/30/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODI4MTcwMiwiZXhwIjoxNzkwNTUzNTk5fQ.s7EnkFFXOrbKTariWRRS_xVvtvaHF9OeEJMZY9qB5xM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YRu70Z7.png" ,Tennis+
