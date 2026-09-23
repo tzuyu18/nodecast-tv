@@ -50,8 +50,6 @@ https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6d6e536f8fa4d8b93627af0128cf00d:e73c8dcfdea374ae576ced342f6c73a2
 #EXTINF:-1 tvg-id="ANC.HD.ph" tvg-name="ANC HD" tvg-logo="https://i.imgur.com/CskWmIC.png",ANC HD
 https://abslive.akamaized.net/dash/live/2027618/anc-ph3/manifest.mpd
 
@@ -81,10 +79,12 @@ http://136.239.173.2:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87
 
 #EXTINF:-1 tvg-name="bilyonaryoch" tvg-logo="https://media.muckrack.com/groups/icons/bilyonaryo-1.png", BILYONARYO NEWS HD
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cYrx4hq.jpeg", Abante TeleRadyo
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
 #EXTINF:-1 tvg-id="depedtv" tvg-name="DEPED TV" tvg-logo="https://i.imgur.com/kOaxlK7.png",CONGRESS TV
