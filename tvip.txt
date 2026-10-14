@@ -13,6 +13,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Taja
 http://136.239.173.2:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1260075967329&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HKF4YXSGDBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="CONV:TV5" tvg-logo="https://i.imgur.com/90cEgYc.png", TV5 HD
+#KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e
@@ -444,13 +445,15 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoHISTORY-STATION-LOGO-ART-16x9._SL170_FMpng_.png" group-title="Outdoor & Adventur",NatGeo History
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|a7bc01ff11a011cdc47a27cd8ea5f3a3:64c22630a86bf1fbe3b3629cea6bc994
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f56pkqphvu/out/v1/fc598dca849d4b579c7ad15031ba7633/cenc.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NatGeoHISTORY-STATION-LOGO-ART-16x9._SL170_FMpng_.png" group-title="Outdoor & Adventur",NatGeo Animals
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b41ebc0109c00632e2f3905b03ad1458
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b41ebc0109c00632e2f3905b03ad1458
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vcrb1198s7/out/v1/268ff4ebd8c04f62a3c2e21e49631532/cenc.mpd
 
 #EXTINF:-1 tvg-id="discoveryph1" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery%20-%20Logo%20-%2030Oct2019.png" group-title="🇵🇭 CIGNAL INTERNATIONAL",DISCOVERY CHANNEL HD
@@ -712,12 +715,14 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
 
 #EXTINF:-1 group-title="|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH05.jpg", Asian Games CH05
+#KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
 
 #EXTINF:-1 group-title="|Asian Games Aichi-Nagoya 2026" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH06.jpg", Asian Games CH06
+#KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
