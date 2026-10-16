@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE"
+#EXTM3U billed-msg="M3U PLAYLIST BY: RYANSNETCAFE edited by tzuyuchou18 for Kodi"
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
@@ -971,8 +971,9 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XETRxUk.png" group-title="World TV", Jeepney TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id=""tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/107.png",Cinemax
@@ -988,7 +989,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
 
 #EXTINF:-1 tvg-id="AstroDaebak" group-title="World TV" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroDaebak.png",Astro Daebak
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|4a2285bc4c5593c6ec41e95494f6b510:b10ab951eab1556c78b410ce0cd6dfef
@@ -1002,17 +1002,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5211/default_primary.mpd
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/x1wehbs.png",Cartoonito
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{"ad2371259d34404cb89d54a4dc88dcd3":"1ba155e345c4456ba891cbee9b3e1c4c"}
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ad2371259d34404cb89d54a4dc88dcd3:1ba155e345c4456ba891cbee9b3e1c4c
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png",Food Network
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|{"d4b9d55410d24905920e57664a047116":"d821110f280f4545ae0227d5784af199"}
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|d4b9d55410d24905920e57664a047116:d821110f280f4545ae0227d5784af199
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="http://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
