@@ -2,6 +2,32 @@
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 
+**********PBBB LIVE STREAMS**********
+#EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB MAIN LIVE
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+
+#EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB All Access
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+
+#EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB Dining Area
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+
+#EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB External Den
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
+
+
 **********Cignal-TV**********
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
