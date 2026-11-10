@@ -6,19 +6,19 @@
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB MAIN LIVE
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
-https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB All Access
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
-https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB Dining Area
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|737377f8bde649ee9eb563613b42395e:a3b3784c19979b7bdd9680b6f32a786c
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB External Den
