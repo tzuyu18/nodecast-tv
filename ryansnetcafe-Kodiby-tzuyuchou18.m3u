@@ -6,25 +6,25 @@
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB MAIN LIVE
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|8150b74d16324bb4b2ff62e3e202fc7a:0c5ed4f9db9d4ee61bbc91b3a51ef8b5
 https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB All Access
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
+https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB Dining Area
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|737377f8bde649ee9eb563613b42395e:a3b3784c19979b7bdd9680b6f32a786c
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 tvg-name="kapatid_hd" group-title="PBB LIVE STREAMS" tvg-logo="https://i.imgur.com/ekFzQOH.jpeg", PBB External Den
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 
