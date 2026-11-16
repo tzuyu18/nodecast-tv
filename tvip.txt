@@ -97,12 +97,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|dc9fec234a5841bb8d06e92042c741ec:225676f32612dc803cb4d0f950d063d0
 https://absp-live.akamaized.net/dash/live/2099522/jeepneytv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FcCM0On.jpeg", Buko
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd 
-
 #EXTINF:-1 tvg-id="Net.25.ph" tvg-name="NET25" tvg-logo="https://cms.cignal.tv/Upload/Images/Net-25%20Logo%20-2022.jpg" group-title="🇵🇭 CIGNAL LOCAL",NET25
 http://136.239.159.20:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApBCCDeDIJn9rDuWx8BszuXsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1684165009466&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CHD4K480U29XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
