@@ -189,7 +189,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
 #EXTINF:-1 tvg-id="spotvph2" tvg-name="SPOTV 2 HD (CON)" tvg-logo="https://i.imgur.com/emNOXwX.png",SPOTV 2 HD
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
+#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="World TV", Bein Sports 1
